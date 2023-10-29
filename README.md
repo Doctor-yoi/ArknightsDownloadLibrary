@@ -1,5 +1,5 @@
 # ArknightsDownloadLibrary
-a repository record the download link of Arknights(since version 2.0.41) now only support CN and Global
+a repository record the download link of Arknights(since CN|2.0.41 and Global|18.9.81) now only support CN and Global
 
 
 ## CN Android Latest: [2.1.01](https://ak.hypergryph.com/downloads/android_lastest)
