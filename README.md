@@ -8,3 +8,5 @@ a repository record the download link of Arknights(since CN|2.0.41 and Global|18
 ## Global Android Latest: [19.0.01](https://apkpure.com/cn/arknights/com.YoStarEN.Arknights/download/19.0.01)
 ## Global IOS Latest: [Only the Latest0](https://apps.apple.com/us/app/id1464872022?mt=8)
 ## For Nox Global PC Global: [Only the Latest](https://res06.bignox.com/player/dev/exe/20220908/c0665cb7d2354d53a58c79211de1fd29.exe)
+
+**中国用户在下载非国服时可能需要使用代理**
