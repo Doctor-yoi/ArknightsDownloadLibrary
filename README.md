@@ -2,7 +2,7 @@
 a repository record the download link of Arknights(since CN|2.0.41 and Global|18.9.81) now only support CN and Global
 
 
-## CN Android Latest: [2.1.01](https://ak.hypergryph.com/downloads/android_lastest)
+## CN Android Latest: [2.1.21](https://ak.hypergryph.com/downloads/android_lastest)
 ## CN IOS Latest: [Only the Latest | 最新版](https://itunes.apple.com/cn/app/id1454663939?mt=8)
 ## For NetEase MuMu PC CN: [Only the Latest | 最新版](https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_yxmrfz2_zh-Hans_1689598660.exe)
 ## Global Android Latest: [19.0.01](https://apkpure.com/cn/arknights/com.YoStarEN.Arknights/download/19.0.01)
